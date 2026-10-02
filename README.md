@@ -5,3 +5,5 @@ I am learning version control.
 I am ending the study session.
 
 I am practicing Git branches.
+
+This line was added directly on GitHub.
